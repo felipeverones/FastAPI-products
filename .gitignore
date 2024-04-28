@@ -1,0 +1,12 @@
+# Diretório do ambiente virtual
+venv/
+
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+
+# Outros arquivos e diretórios que geralmente são ignorados
+.DS_Store          # Arquivos específicos do MacOS
+.vscode/           # Configurações do editor VSCode
+.idea/             # Configurações do IntelliJ
+*.log              # Arquivos de log
